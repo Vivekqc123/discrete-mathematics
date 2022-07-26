@@ -1,5 +1,5 @@
 /*
-TOWER OF HANOI: All you have to remember is that first move n-1 disks from A to B. Then move n-1 disks from B to C
+TOWER OF HANOI: All you have to remember is that first move n-1 disks from A to B. Then move n-1 disks from B to C 
 */
 
 #include<iostream>
